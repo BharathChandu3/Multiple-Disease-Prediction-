@@ -1,6 +1,5 @@
 ﻿# Multiple-Disease-Prediction
 Table of Contents
-
 Overview
 Features
 Technologies Used
@@ -9,7 +8,6 @@ Usage
 Contributing
 License
 Contact
-Overview
 The Health Assistant is a machine learning-based application built using Streamlit. It allows users to predict the likelihood of diabetes, heart disease, and Parkinson's disease based on user input. The application leverages pre-trained models to provide health predictions.
 
 Features
