@@ -1,32 +1,46 @@
-﻿# Multiple-Disease-Prediction
-Table of Contents
-Overview
-Features
-Technologies Used
-Installation
-Usage
-Contributing
-License
-Contact
-The Health Assistant is a machine learning-based application built using Streamlit. It allows users to predict the likelihood of diabetes, heart disease, and Parkinson's disease based on user input. The application leverages pre-trained models to provide health predictions.
+Multiple Disease Prediction
+## Table of Contents
 
-Features
-Diabetes Prediction: Input various health metrics to predict the risk of diabetes.
-Heart Disease Prediction: Analyze heart-related parameters to determine the possibility of heart disease.
-Parkinson's Disease Prediction: Evaluate voice features to assess the likelihood of Parkinson's disease.
-User-Friendly Interface: Easy navigation with a sidebar for selecting different prediction models.
-Technologies Used
-Python
-Streamlit
-scikit-learn (for machine learning models)
-Pickle (for model serialization)
-Streamlit Option Menu (for navigation)
-Installation
+- [Overview](#overview)  
+- [Features](#features)  
+- [Technologies Used](#technologies-used)  
+- [Installation](#installation)  
+- [Usage](#usage)  
+- [Contributing](#contributing)  
+- [License](#license)  
+- [Contact](#contact)  
+Example README with Proper Table of Contents Formatting
+Here’s how the full README will look with the formatted Table of Contents:
+
+
+
+
+## Overview
+
+The **Health Assistant** is a machine learning-based application built using Streamlit. It allows users to predict the likelihood of diabetes, heart disease, and Parkinson's disease based on user input. The application leverages pre-trained models to provide health predictions.
+
+## Features
+
+- **Diabetes Prediction**: Input various health metrics to predict the risk of diabetes.
+- **Heart Disease Prediction**: Analyze heart-related parameters to determine the possibility of heart disease.
+- **Parkinson's Disease Prediction**: Evaluate voice features to assess the likelihood of Parkinson's disease.
+- **User-Friendly Interface**: Easy navigation with a sidebar for selecting different prediction models.
+
+## Technologies Used
+
+- Python
+- Streamlit
+- scikit-learn (for machine learning models)
+- Pickle (for model serialization)
+- Streamlit Option Menu (for navigation)
+
+## Installation
+
 To run this application locally, follow these steps:
 
-Clone the repository:
-
-git clone https://github.com/BharathChandu3/Multiple-Disease-Prediction-.git
+1. Clone the repository:
+ 
+   git clone (https://github.com/BharathChandu3/Multiple-Disease-Prediction-.git)
 Navigate to the project directory:
 
 cd health-assistant
@@ -35,7 +49,7 @@ Install the required packages:
 pip install -r requirements.txt
 Run the application:
 
-streamlit run main.py
+streamlit run app.py
 Note: Ensure you have Python 3.x installed on your system.
 
 Usage
