@@ -9,8 +9,7 @@ Multiple Disease Prediction
 - [Contributing](#contributing)  
 - [License](#license)  
 - [Contact](#contact)  
-Example README with Proper Table of Contents Formatting
-Here’s how the full README will look with the formatted Table of Contents:
+
 
 
 
