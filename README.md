@@ -28,7 +28,7 @@ To run this application locally, follow these steps:
 
 Clone the repository:
 
-git clone https://github.com/yourusername/health-assistant.git
+git clone https://github.com/BharathChandu3/Multiple-Disease-Prediction-.git
 Navigate to the project directory:
 
 cd health-assistant
